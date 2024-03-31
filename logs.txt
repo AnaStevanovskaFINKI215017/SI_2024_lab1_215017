@@ -1,0 +1,22 @@
+$ git log
+commit 848f14e528c953f1aee649bbfa02848268f640e9 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: AnaStevanovskaFINKI215017 <a.stevanovska3@gmail.com>
+Date:   Sun Mar 31 17:54:09 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit d9ddf569c67f93e9eeb78cf38cde7d055cadb1f8
+Author: AnaStevanovskaFINKI215017 <a.stevanovska3@gmail.com>
+Date:   Sun Mar 31 17:38:01 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 91434325bfe1f0ac77e76ab151c1516716280abb (origin/bug1, bug1)
+Author: AnaStevanovskaFINKI215017 <a.stevanovska3@gmail.com>
+Date:   Sun Mar 31 17:45:57 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit d5dec8f19f01d9573202d6bd2c65f6dd1a62934e
+Author: AnaStevanovskaFINKI215017 <a.stevanovska3@gmail.com>
+Date:   Sun Mar 31 17:32:23 2024 +0200
